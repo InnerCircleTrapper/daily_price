@@ -1,0 +1,17 @@
+# --- Python env & cache ---
+.venv/
+__pycache__/
+
+# --- Secrets / keys ---
+.env
+
+# --- Runtime artefacts ---
+db/
+etl.log
+reports/img/          # generated charts
+*.png
+*.pdf
+
+# --- OS clutter ---
+.DS_Store
+Thumbs.db
