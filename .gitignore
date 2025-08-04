@@ -9,7 +9,6 @@ __pycache__/
 db/
 etl.log
 reports/img/          # generated charts
-*.png
 *.pdf
 
 # --- OS clutter ---
