@@ -8,4 +8,4 @@ Small Python + SQLite project that:
 4. **Generates** a Close vs SMA bar chart each night (matplotlib)  
 5. **Automates** everything with Windows Task Scheduler  
 
-![Example chart](docs/screenshot.png)
+![SPY – Close vs 20-day SMA](docs/spy_close_vs_sma.png)
