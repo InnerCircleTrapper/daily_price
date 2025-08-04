@@ -8,7 +8,7 @@ __pycache__/
 # --- Runtime artefacts ---
 db/
 etl.log
-reports/img/**         # generated charts
+reports/img/**        # generated charts
 *.pdf
 
 # --- OS clutter ---
